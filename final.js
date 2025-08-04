@@ -6,7 +6,6 @@ var result = area / 2;
 console.log(result);
 
 
-
 /** Problem -02 ( Cycle or Laptop ) */
 var money = 10000;
 //write your code here
@@ -23,7 +22,7 @@ else{
 
 
 /** Problem -03 ( Medicine Planner ) */
-var lastDay = 4;
+var lastDay = 11;
 //write your code here
 
  for(var i = 1; i <= lastDay; i++){
@@ -72,7 +71,3 @@ var amount = (1+inAmount)
 var result = (Math.pow(amount, experience)) * startingSalary;
 var result = result.toFixed(2)
 console.log(result)
-
-
-
-
